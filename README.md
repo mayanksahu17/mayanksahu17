@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Mayank ! 👋
 
 I'm a passionate computer science from Indore. Welcome to my GitHub profile!
 
